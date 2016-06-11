@@ -14,7 +14,14 @@ public class MainActivity extends AppCompatActivity {
     public void testgit1()
     {
         int x = 15;
+        int y = 14;
 
+
+    }
+
+    public void func2()
+    {
+        String name = "mymame";
 
     }
 
