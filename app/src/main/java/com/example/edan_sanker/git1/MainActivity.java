@@ -10,4 +10,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public void testgit1()
+    {
+        int x = 15;
+
+
+    }
+
+
 }
